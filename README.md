@@ -6,10 +6,10 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-1) Не проходит валидация карт VISA с номером из 19-ти знаков
-2) Не проходит валидация карт Discover с номером из 19-ти знаков
-3) Не проходит валидация карт American Express
-4) Не проходит валидация карт JCB с номером из 19-ти знаков
+1) [Не проходит валидация карт VISA с номером из 19-ти знаков](https://github.com/Alex-stagemaster/Java-1.1.2_CreditCardNumberValidator/issues/1) 
+2) [Не проходит валидация карт Discover с номером из 19-ти знаков](https://github.com/Alex-stagemaster/Java-1.1.2_CreditCardNumberValidator/issues/2)
+3) [Не проходит валидация карт American Express](https://github.com/Alex-stagemaster/Java-1.1.2_CreditCardNumberValidator/issues/3)
+4) [Не проходит валидация карт JCB с номером из 19-ти знаков](https://github.com/Alex-stagemaster/Java-1.1.2_CreditCardNumberValidator/issues/4)
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
